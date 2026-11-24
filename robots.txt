@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://literature.pankajbhattarai.com.np/sitemap.xml
